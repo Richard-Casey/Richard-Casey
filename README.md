@@ -2,7 +2,7 @@
 
 **he/him**  
 Unity Game Programmer. Constantly learning.  
-Final year BSc (Hons) Games Development (Programming) graduate from the University of Suffolk.
+Firat: BSc (Hons) Games Development (Programming) graduate from the University of Suffolk.
 
 ---
 
@@ -25,7 +25,7 @@ Final year BSc (Hons) Games Development (Programming) graduate from the Universi
 - Portfolio website, branding, mock interviews, and more
 
 ### [University-Year-2](https://github.com/Richard-Casey/University-Year-2)
-> Sophomore-level C++ engine programming, AI systems, graphics modules, and a solo rebuilt group project.
+> C++ engine programming, AI systems, graphics modules, and a solo rebuilt group project.
 
 ### [University-Year-1](https://github.com/Richard-Casey/University-Year-1)
 > Foundations of C#, Unity, and problem-solving in game dev contexts.
