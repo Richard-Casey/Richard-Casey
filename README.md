@@ -48,7 +48,7 @@ WPF-based app designed to reduce digital workload duplication for a real-world c
 
 - 🌐 [Richard-Casey.co.uk](https://richard-casey.co.uk)
 - 💼 [LinkedIn](https://www.linkedin.com/in/richard-casey-40a6124a)
-- 📧 RichardCasey87@gmail.com
+- 📧 me@richard-casey.co.uk
 
 ---
 
