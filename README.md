@@ -2,7 +2,7 @@
 
 **he/him**  
 Unity Game Programmer. Constantly learning.  
-Firat: BSc (Hons) Games Development (Programming) graduate from the University of Suffolk.
+First with Honours: BSc (Hons) Games Development (Programming) graduate from the University of Suffolk.
 
 ---
 
